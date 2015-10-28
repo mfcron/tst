@@ -18,6 +18,7 @@ int main(int argc, char const *argv[])
 	for(i = 0; i<n; i++);
 	for(i = 0; i<n; i++);
 	for(i = 0; i<n; i++);
+	for(i = 0; i<n; i++);
 	printf("done looping.\n");
 
 	return 0;
